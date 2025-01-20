@@ -1,0 +1,1 @@
+console.log("devang pareek this is class of javascript class of chai or code ");
