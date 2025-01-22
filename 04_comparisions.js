@@ -16,7 +16,7 @@ console.log(undefined == 0);
 console.log(undefined > 0);
 console.log(undefined < 0);
 
-// === 
+// === this is strict cheak in this they not convert 
 
 console.log("2" === 2);
 
