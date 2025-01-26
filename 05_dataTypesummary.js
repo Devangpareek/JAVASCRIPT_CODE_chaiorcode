@@ -58,9 +58,20 @@ console.log(typeof anotherId);
 
 //Stack (primitive) , heap (Non primitive)
 
+
+/*all primitive data type go in stack and there we dont change the original value . the value change in copy value . 
+Non primitive data type in this originall values got change .*/
+
+
+
 let myYoutubename = "devangpareek"
 
 let anothername = myYoutubename
 anothername = "devop"
 console.log(myYoutubename);
 console.log(anothername);
+
+
+
+
+
