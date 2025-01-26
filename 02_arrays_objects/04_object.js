@@ -64,6 +64,9 @@ const course = {
 
 // course.courseInstructor
 
+
+//course deinstructor
+// const {which value you have to instruct : new variable name } = frome where to extract the value 
 const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
