@@ -1,8 +1,8 @@
 // singleton
 // Object.create   [constructor ke time par singleton ban ta hai ]
 
+//**************  IN THIS WE LEARN ABOUT LITERALS ***************************** */
 // object literals
-
 const mySym = Symbol("key1")
 
 
