@@ -72,6 +72,11 @@ const {courseInstructor: instructor} = course
 // console.log(courseInstructor);
 console.log(instructor);
 
+
+
+// About APIs We get APIs data in this form 
+
+
 // {
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
